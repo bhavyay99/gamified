@@ -1,0 +1,42 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Gamified - Home</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Gamified</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li>
+                    <a href="#">Analysis</a>
+                    <ul>
+                        <li><a href="analysis/minecraft.html">Minecraft</a></li>
+                        <li><a href="analysis/roblox.html">Roblox</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">Economy</a>
+                    <ul>
+                        <li><a href="economy/minecraft.html">Minecraft</a></li>
+                        <li><a href="economy/roblox.html">Roblox</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Welcome to Gamified</h2>
+            <p>We analyze and decode gaming mechanics and economies from titles like Minecraft and Roblox.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Gamified</p>
+    </footer>
+</body>
+</html>
